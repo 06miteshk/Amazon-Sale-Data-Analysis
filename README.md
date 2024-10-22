@@ -45,7 +45,4 @@ Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 
 [Report](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Amazon%20sales%20report.pptx)
 
-## 📩 Feedback
-
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
 
